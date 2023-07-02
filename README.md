@@ -1,45 +1,27 @@
-<div align="left">
-  <h1 style="color:red">
-    <img height="60" width="60" src="https://c.tenor.com/I5iY9Hj8YGQAAAAi/kroppa-digital.gif" />
-  </h1>
-<div>
- 
-<div align="left">
-  <p>
-    I am an undergraduate from Covenant University with BSc(Electrical and Electronics Engineering). My dream is to be an expert in Data Science. As I have a passion for Data Analytics and Machine Learning I am currently looking for the opportunity to develop my skills further. I Am open-minded to working in any environment. Also, I'm willing to learn new things to help enhance my knowledge and experience in my career.
-  </p>
-</div>
-  
-<div align="center">
- <h2>Languages</h2>
- <a href="https://github.com/igwe9">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=newton0055&theme=tokyonight&layout=compact">
- </a>
-</div>
+# 💫 About Me:
+🔭 I am currently immersed in the dynamic field of machine-learning engineering<br>👯 Seeking engaging machine-learning collaborations for transformative projects<br>🤝 I’m looking for help with finding solutions to real-world problems using various machine-learning techniques<br>🌱 I’m currently learning various machine-learning techniques using python<br>💬 Ask me about Data preprocessing, supervised learning, and unsupervised learning<br>⚡ Fun fact - I play video games a lot
 
-<div align="center">
- <h2>Github Statistics</h2>
- <a href="https://github.com/igwe9">
- <img align="center" alt="Newton's Stats" src="https://github-readme-stats.vercel.app/api?username=newton0055&show_icons=true&theme=tokyonight">
- </a>
-</div>
 
-<div>
-  <h1>Languages and Tools: </h1>
-  
-   <img align="left" alt="HTML" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"/>
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_newton.s) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/chidubemcn) 
 
-   <img  align="left" alt="CSS" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"/>
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=newton0055&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=newton0055&theme=tokyonight&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=newton0055&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
-  <img  align="left" alt="Bootstrap" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"/>
- 
-   <img align="right" alt="Javascript" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/>
-  
-   <img lign="right" alt="Python" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"/>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=newton0055&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4)
 
-</div>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-<div align="center">
-  <img height="60" width="100px" src="https://c.tenor.com/kyeNs4DnuW0AAAAC/dev_animado.gif" /><br>
-  <b>❤️ Thank you for visiting my Profile ❤️</b>
-</div>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=newton0055&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=newton0055&icon=8&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
