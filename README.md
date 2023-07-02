@@ -1,5 +1,5 @@
 <p align="center">
-    <img width="500" src="https://github.com/newton0055/newton0055/blob/main/coding-typing.gif" alt="Coding Gif">
+    <img width="400" src="https://github.com/newton0055/newton0055/blob/main/coding-typing.gif" alt="Coding Gif">
 </p>
 
 # 💫 About Me:
