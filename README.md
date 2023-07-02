@@ -1,3 +1,7 @@
+<p align="center">
+    <img width="500" src="https://github.com/newton0055/newton0055/blob/main/coding-typing.gif" alt="Coding Gif">
+</p>
+
 # 💫 About Me:
 🔭 I am currently immersed in the dynamic field of machine-learning engineering<br>👯 Seeking engaging machine-learning collaborations for transformative projects<br>🤝 I’m looking for help with finding solutions to real-world problems using various machine-learning techniques<br>🌱 I’m currently learning various machine-learning techniques using python<br>💬 Ask me about Data preprocessing, supervised learning, and unsupervised learning<br>⚡ Fun fact - I play video games a lot
 
